@@ -54,5 +54,5 @@ class ICDS_Spider(wuxiaSpider):
 
 class PTO_Spider(wuxiaSpider):
 	name = "PTO"
-	url = 'http://www.wuxiaworld.com/pto-index/pto-chapter-163/'
+	#url = 'http://www.wuxiaworld.com/pto-index/pto-chapter-1/'
 	wuxia_name = name
